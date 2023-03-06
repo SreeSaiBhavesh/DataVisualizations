@@ -5,4 +5,9 @@ This repository has usage of various visualization methods for better understand
 - BARPLOT
 - ARULES LIBRARY USAGE
 - CLUSTERING
-- **SAMPLE DASHBOARD**
+- **SIMPLE DASHBOARD**
+<h1>SIMPLE DASHBOARD</h1>
+This is a Simple Dashboard I created using Shiny and Shiny Dashboard Libraries. I've done this dashboard for Normal and Exponential Distribtuion.
+<h3>Normal Distribution</h1>
+<img src="./Images/NormalDistribution.jpg" width=32 height=32>
+
